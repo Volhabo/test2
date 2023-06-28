@@ -1,6 +1,7 @@
 #https://git-scm.com/docs/gitignore
 .idea
 
+
 # Compiled class file
 *.class
 
